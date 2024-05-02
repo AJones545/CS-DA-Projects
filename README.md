@@ -9,4 +9,4 @@ This repo is for data analytics projects assinged during a CS bootcamp
     - data visualisation - seaborn, matplotlib, plotly
     *- story telling with data - wip - will upload final presentation*
 
-  *NB: plotly figures will not show up in github notebooks, they require a server to host them. Please download the notebook to see the extent of my work*
+  *NB: plotly figures will not show up in github notebooks, they require a server to host them. Please download the notebook*
