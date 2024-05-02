@@ -1,6 +1,6 @@
 This repo is for data analytics projects assinged during a CS bootcamp
 
-1) Treadmill Sales Analysis 
+1) Treadmill Customer Analysis 
   - Looking at customer surveys upon purchase of treamills 
   - descriptive and prescriptive analytics; customer segmentation and how to improve sales
 
