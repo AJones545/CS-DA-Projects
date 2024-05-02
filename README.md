@@ -5,7 +5,7 @@ This repo is for data analytics projects assinged during a CS bootcamp
   - descriptive and prescriptive analytics; customer segmentation and how to improve sales
 
   **Skills**
-    - data manipulation - pandas, some numpy and one sklearn function
+    - data manipulation - pandas, some numpy and sklearn
     - data visualisation - seaborn, matplotlib, plotly
     *- story telling with data - wip - will upload final presentation*
 
