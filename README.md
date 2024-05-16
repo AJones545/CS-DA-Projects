@@ -7,7 +7,7 @@ This repo is for data analytics projects assinged during a Data Analytics Bootca
   **Skills**
   - Data cleaning - pandas
   - Dataset Engineering - Dealing with publicly available IMDB data, shutil gz files, pandas merges
-  - data visualisation - seaborn, matplotlib, plotly
+  - data visualisation - seaborn, matplotlib
   - story telling with data - final presentation
  
   **Deliverables**
