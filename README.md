@@ -1,4 +1,4 @@
-This repo is for data analytics projects assinged during a CS bootcamp
+This repo is for data analytics projects assinged during a Data Analytics Bootcamp with Cambridge Spark
 
 1) Streaming Service Hackathon:
 - Looking at Netflix data to provide a strategy for new company CS Streaming to compete with Netflix
